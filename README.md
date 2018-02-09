@@ -1,1 +1,1 @@
-![image](dreamvu_logo.png| center)
+![image](dreamvu_logo.png =250x250)
