@@ -1,1 +1,1 @@
-![image](dreamvu_logo.png)
+![image](dreamvu_logo.png| center)
